@@ -38,6 +38,7 @@ This project investigates variations in gut microbiome composition across popula
 │   ├── raw/            # Original, unmodified datasets
 │   └── processed/      # Cleaned and transformed data
 ├── notebooks/          # Jupyter notebooks for EDA and analysis
+├── Papers/ 
 ├── results/
 │   ├── figures/        # Plots and visualizations
 │   └── tables/         # Summary statistics, output tables
